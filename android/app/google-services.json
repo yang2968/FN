@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "310606206592",
+    "project_id": "firen-68a36",
+    "storage_bucket": "firen-68a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310606206592:android:7f4ab708f1520188c6b865",
+        "android_client_info": {
+          "package_name": "com.fn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310606206592-k6qkh5s3he6hiu9l4v44kvp13g6c40a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fn",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "310606206592-b2vdq6njmqufo5jub1vukoqpddelqcj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTsgVxj_oyRdHWBJuzWK1PhhM7fSXWRQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310606206592-b2vdq6njmqufo5jub1vukoqpddelqcj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
